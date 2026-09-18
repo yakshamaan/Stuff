@@ -1,4 +1,4 @@
-# Python Commands - Quick Report
+# Python Commands
 
 This concise reference covers the commands demonstrated across the supplied Python, NumPy, and Matplotlib material. Examples use the conventional aliases `np` (NumPy), `pd` (Pandas), and `plt` (Matplotlib pyplot).
 
